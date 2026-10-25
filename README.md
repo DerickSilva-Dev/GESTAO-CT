@@ -2,7 +2,7 @@
 
 Uma API RESTful desenvolvida em Java com Spring Boot para o gerenciamento de alunos em um centro de treinamento de artes marciais. O projeto implementa um banco de dados em memória *thread-safe*, garantindo consistência de dados e prevenção de falhas em cenários de alta concorrência.
 
-## 🚀 Tecnologias e Práticas Utilizadas
+## Tecnologias e Práticas Utilizadas
 *   **Java 17 & Spring Boot 3:** Base do ecossistema backend.
 *   **Lombok:** Redução de código boilerplate.
 *   **Jakarta Validation:** Validação rigorosa dos dados de entrada (DTOs).
@@ -10,7 +10,7 @@ Uma API RESTful desenvolvida em Java com Spring Boot para o gerenciamento de alu
 *   **Java Stream API:** Lógica de filtragem avançada de coleções no *Service*.
 *   **Arquitetura em Camadas:** Separação estrutural entre `Controller`, `Service`, `Model` e `DTO`.
 
-## 📌 Endpoints da API
+## Endpoints da API
 
 O caminho base para todas as requisições é `http://localhost:8080/Aluno`.
 
@@ -61,7 +61,7 @@ O caminho base para todas as requisições é `http://localhost:8080/Aluno`.
 
 1. Clone o repositório em seu ambiente local:
    ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/DerickSilva-Dev/GESTAO-CT.git)
    ```
 2. Abra o projeto na sua IDE (IntelliJ IDEA, Eclipse, etc.).
 3. Certifique-se de que o **JDK 17** está configurado como SDK do projeto e no Language Level.
